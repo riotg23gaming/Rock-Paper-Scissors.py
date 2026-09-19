@@ -61,8 +61,7 @@ You need:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/rock-paper-scissors-python.git
-```
+(https://github.com/riotg23gaming/Rock-Paper-Scissors.py/edit/main/README.md)```
 
 Move into the project folder:
 
@@ -152,6 +151,6 @@ For now, I consider this project finished as a beginner Python project.
 
 ## Author
 
-Your Name
+Yozdzhan Angelov
 
 This project is part of my ongoing Python learning and practice.
